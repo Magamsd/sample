@@ -13,10 +13,19 @@ public static void main(String[] args) {
 	b.saving();
 	b.fixed();
 	b.deposit();
+
 	//new codes
 	
-	System.out.println("maga");
-	System.out.println("maga");
-	System.out.println("maga");
+		System.out.println("maga");
+		System.out.println("maga");
+		System.out.println("maga");
+		
+	//2nd codes
+	System.out.println("hello");
+	System.out.println("hello");
+	System.out.println("hello");
+	System.out.println("hello");
+
+	
 }
 }
