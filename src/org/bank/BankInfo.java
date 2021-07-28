@@ -13,5 +13,10 @@ public static void main(String[] args) {
 	b.saving();
 	b.fixed();
 	b.deposit();
+	//new codes
+	
+	System.out.println("maga");
+	System.out.println("maga");
+	System.out.println("maga");
 }
 }
